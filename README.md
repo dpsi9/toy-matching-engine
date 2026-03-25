@@ -14,8 +14,6 @@ Flow:
 docker compose up --build
 ```
 
-API: http://localhost:8080
-
 ## Endpoints
 
 - `POST /orders`
